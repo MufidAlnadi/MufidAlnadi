@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects or contribute to exciting web development initiatives. I'm a firm believer in the power of teamwork and learning from experienced developers to enhance my skills.
 
-📫 You can reach me via email at mufidhussein@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/mufed-alnadi-316792267/. I'm open to discussing new opportunities, sharing knowledge, or simply having a chat about web development.
+📫 You can reach me via email at mufidhussein@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/mufedalnadi/. I'm open to discussing new opportunities, sharing knowledge, or simply having a chat about web development.
 
 🌐 Check out my GitHub repositories to see some of my projects and code samples. Feel free to provide feedback or collaborate on any projects that catch your attention. Let's create amazing web experiences together!
 
